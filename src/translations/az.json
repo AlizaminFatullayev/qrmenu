@@ -1,0 +1,45 @@
+{
+  "restaurant": {
+    "name": "Aytala",
+    "shortName": "A",
+    "tagline": "Kabab, qazan yeməkləri və təndir dadları",
+    "menu": "QR Menyu"
+  },
+  "header": {
+    "language": "Dil"
+  },
+  "search": {
+    "label": "Menyu axtarışı",
+    "placeholder": "Yemək və içki axtar...",
+    "clear": "Axtarışı təmizlə"
+  },
+  "labels": {
+    "all": "Hamısı",
+    "items": "{{count}} seçim",
+    "categoryCount": "{{count}} məhsul",
+    "resultsFor": "Axtarış nəticələri",
+    "noResultsTitle": "Nəticə tapılmadı",
+    "noResultsText": "Axtarışı dəyişərək menyudakı başqa adı yoxlayın.",
+    "source": "Menyu PDF-dən çıxarılıb",
+    "footer": "Aytala restoran menyusu"
+  },
+  "categories": {
+    "coldAppetizers": "Soyuq qəlyanaltılar",
+    "kebabs": "Kabablar",
+    "potDishes": "Qazan yeməkləri",
+    "mainCourses": "Əsas yeməklər",
+    "pastries": "Kətələr və qutablar",
+    "vodka": "Araqlar",
+    "coldDrinks": "Soyuq içkilər",
+    "hotDrinks": "İsti içkilər"
+  },
+  "price": {
+    "currency": "AZN"
+  },
+  "variants": {
+    "skewer": "Şiş",
+    "kilo": "Kilo",
+    "tailFat": "Quyruqlu",
+    "ashRoasted": "Külləmə"
+  }
+}

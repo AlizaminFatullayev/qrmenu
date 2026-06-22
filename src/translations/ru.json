@@ -1,0 +1,45 @@
+{
+  "restaurant": {
+    "name": "Aytala",
+    "shortName": "A",
+    "tagline": "Кебабы, блюда в казане и вкус тандыра",
+    "menu": "QR Меню"
+  },
+  "header": {
+    "language": "Язык"
+  },
+  "search": {
+    "label": "Поиск по меню",
+    "placeholder": "Искать блюдо или напиток...",
+    "clear": "Очистить поиск"
+  },
+  "labels": {
+    "all": "Все",
+    "items": "{{count}} позиций",
+    "categoryCount": "{{count}} позиций",
+    "resultsFor": "Результаты поиска",
+    "noResultsTitle": "Ничего не найдено",
+    "noResultsText": "Измените запрос и попробуйте другое название из меню.",
+    "source": "Меню извлечено из PDF",
+    "footer": "Меню ресторана Aytala"
+  },
+  "categories": {
+    "coldAppetizers": "Холодные закуски",
+    "kebabs": "Кебабы",
+    "potDishes": "Блюда в казане",
+    "mainCourses": "Основные блюда",
+    "pastries": "Кята и кутабы",
+    "vodka": "Водка",
+    "coldDrinks": "Холодные напитки",
+    "hotDrinks": "Горячие напитки"
+  },
+  "price": {
+    "currency": "AZN"
+  },
+  "variants": {
+    "skewer": "Шампур",
+    "kilo": "Кило",
+    "tailFat": "С курдюком",
+    "ashRoasted": "Печеный"
+  }
+}

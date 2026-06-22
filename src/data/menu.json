@@ -1,0 +1,387 @@
+[
+  {
+    "id": "coldAppetizers",
+    "category_az": "Soyuq qəlyanaltılar",
+    "category_ru": "Холодные закуски",
+    "items": [
+      {
+        "id": "pendir",
+        "name_az": "Pendir",
+        "name_ru": "Сыр",
+        "price": 2,
+        "image": "/images/menu/pendir.jpg"
+      },
+      {
+        "id": "suzme",
+        "name_az": "Süzmə",
+        "name_ru": "Сузьма",
+        "price": 2,
+        "image": "/images/menu/suzmeqatiq.jpg"
+      },
+      {
+        "id": "coban-salati",
+        "name_az": "Çoban salatı",
+        "name_ru": "Салат Чобан",
+        "price": 3,
+        "image": "/images/menu/coban-salatasi-sq-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kebabs",
+    "category_az": "Kabablar",
+    "category_ru": "Кебабы",
+    "items": [
+      {
+        "id": "tike",
+        "name_az": "Tikə",
+        "name_ru": "Тике",
+        "price": 7,
+        "image": "/images/menu/tike.jpg",
+        "variants": [
+          {
+            "key": "skewer",
+            "price": 7
+          },
+          {
+            "key": "kilo",
+            "price": 27
+          }
+        ]
+      },
+      {
+        "id": "lule",
+        "name_az": "Lülə",
+        "name_ru": "Люля-кебаб",
+        "price": 7,
+        "image": "/images/menu/lule.jpg",
+        "variants": [
+          {
+            "key": "skewer",
+            "price": 7
+          },
+          {
+            "key": "kilo",
+            "price": 27
+          }
+        ]
+      },
+      {
+        "id": "basdirma",
+        "name_az": "Basdırma",
+        "name_ru": "Бастурма",
+        "price": 7,
+        "image": "/images/menu/basdirma.jpg",
+        "variants": [
+          {
+            "key": "skewer",
+            "price": 6
+          },
+          {
+            "key": "kilo",
+            "price": 25
+          }
+        ]
+      },
+      {
+        "id": "toyuq-kabab",
+        "name_az": "Toyuq",
+        "name_ru": "Куриный кебаб",
+        "price": 4,
+        "image": "/images/menu/toyuq-kabab.jpg",
+        "variants": [
+          {
+            "key": "skewer",
+            "price": 4
+          },
+          {
+            "key": "kilo",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "id": "baliq",
+        "name_az": "Balıq",
+        "name_ru": "Рыба",
+        "price": 25,
+        "image": "/images/menu/baliq.jpg",
+        "variants": [
+          {
+            "key": "kilo",
+            "price": 25
+          }
+        ]
+      },
+      {
+        "id": "kartof",
+        "name_az": "Kartof",
+        "name_ru": "Картофель",
+        "price": 2,
+        "image": "/images/menu/kartof.jpg",
+        "variants": [
+          {
+            "key": "tailFat",
+            "price": 5
+          },
+          {
+            "key": "ashRoasted",
+            "price": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "potDishes",
+    "category_az": "Qazan yeməkləri",
+    "category_ru": "Блюда в казане",
+    "items": [
+      {
+        "id": "toyuq-supu",
+        "name_az": "Toyuq supu",
+        "name_ru": "Куриный суп",
+        "price": 3,
+        "image": "/images/menu/toyuq-supu.jpg"
+      },
+      {
+        "id": "gobelek-supu",
+        "name_az": "Göbələk supu",
+        "name_ru": "Грибной суп",
+        "price": 3,
+        "image": "/images/menu/gobelek-supu.jpg"
+      },
+      {
+        "id": "dusbere",
+        "name_az": "Düşbərə",
+        "name_ru": "Дюшбара",
+        "price": 3,
+        "image": "/images/menu/dusbere.jpg"
+      },
+      {
+        "id": "portleme",
+        "name_az": "Pörtləmə",
+        "name_ru": "Портлама",
+        "price": 7,
+        "image": "/images/menu/portleme.jpg"
+      },
+      {
+        "id": "piti",
+        "name_az": "Piti",
+        "name_ru": "Пити",
+        "price": 7,
+        "image": "/images/menu/piti.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mainCourses",
+    "category_az": "Əsas yeməklər",
+    "category_ru": "Основные блюда",
+    "items": [
+      {
+        "id": "tabaka",
+        "name_az": "Tabaka",
+        "name_ru": "Цыпленок табака",
+        "price": 15,
+        "image": "/images/menu/tabaka.webp"
+      },
+      {
+        "id": "sac-toyuq",
+        "name_az": "Sac toyuq",
+        "name_ru": "Садж с курицей",
+        "price": 20,
+        "image": "/images/menu/sactoyuq.avif"
+      },
+      {
+        "id": "sac-quzu",
+        "name_az": "Sac quzu",
+        "name_ru": "Садж с ягненком",
+        "price": 25,
+        "image": "/images/menu/sacquzu.jpg"
+      },
+      {
+        "id": "cigirtma-toyuq",
+        "name_az": "Çığırtma toyuq",
+        "name_ru": "Чыгыртма с курицей",
+        "price": 25,
+        "image": "/images/menu/cigirtmatoyuq.jpg"
+      },
+      {
+        "id": "cigirtma-quzu",
+        "name_az": "Çığırtma quzu",
+        "name_ru": "Чыгыртма с ягненком",
+        "price": 30,
+        "image": "/images/menu/cigirtmaquzu.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pastries",
+    "category_az": "Kətələr və qutablar",
+    "category_ru": "Кята и кутабы",
+    "items": [
+      {
+        "id": "xamali-kete",
+        "name_az": "Xamalı kətə",
+        "name_ru": "Кята со сметаной",
+        "price": 3,
+        "image": "/images/menu/xamali-kete.jpg"
+      },
+      {
+        "id": "kere-yagli-kete",
+        "name_az": "Kərə yağlı kətə",
+        "name_ru": "Кята со сливочным маслом",
+        "price": 2,
+        "image": "/images/menu/kere-yagli-kete.jpg"
+      },
+      {
+        "id": "et-qutabi",
+        "name_az": "Ət qutabı",
+        "name_ru": "Кутаб с мясом",
+        "price": 3,
+        "image": "/images/menu/et-qutabi.jpg"
+      },
+      {
+        "id": "qarin-qutabi",
+        "name_az": "Qarın qutabı",
+        "name_ru": "Кутаб с рубцом",
+        "price": 2,
+        "image": "/images/menu/qarin-qutabi.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vodka",
+    "category_az": "Araqlar",
+    "category_ru": "Водка",
+    "items": [
+      {
+        "id": "banketnaya-05",
+        "name_az": "Banketnaya 0,5",
+        "name_ru": "Банкетная 0,5",
+        "price": 13,
+        "image": "/images/menu/banketnaya.jpg"
+      },
+      {
+        "id": "banketnaya-07",
+        "name_az": "Banketnaya 0,7",
+        "name_ru": "Банкетная 0,7",
+        "price": 15,
+        "image": "/images/menu/banketnaya.jpg"
+      },
+      {
+        "id": "orqanik-05",
+        "name_az": "Orqanik 0,5",
+        "name_ru": "Органик 0,5",
+        "price": 8,
+        "image": "/images/menu/organic.webp"
+      },
+      {
+        "id": "orqanik-07",
+        "name_az": "Orqanik 0,7",
+        "name_ru": "Органик 0,7",
+        "price": 10,
+        "image": "/images/menu/organic.webp"
+      }
+    ]
+  },
+  {
+    "id": "coldDrinks",
+    "category_az": "Soyuq içkilər",
+    "category_ru": "Холодные напитки",
+    "items": [
+      {
+        "id": "qazli-qazsiz-su",
+        "name_az": "Qazlı/Qazsız su",
+        "name_ru": "Вода с газом/без газа",
+        "price": 1,
+        "image": "/images/menu/sirab.webp"
+      },
+      {
+        "id": "ayran",
+        "name_az": "Ayran",
+        "name_ru": "Айран",
+        "price": 1,
+        "image": "/images/menu/ayran.webp"
+      },
+      {
+        "id": "terxun",
+        "name_az": "Tərxun",
+        "name_ru": "Тархун",
+        "price": 2,
+        "image": "/images/menu/terxun.jpg"
+      },
+      {
+        "id": "kola-fanta-sprite",
+        "name_az": "Kola, Fanta, Sprite",
+        "name_ru": "Кола, Фанта, Спрайт",
+        "price": 2,
+        "image": "/images/menu/coke.jpg"
+      },
+      {
+        "id": "meyve-siresi",
+        "name_az": "Meyvə şirəsi",
+        "name_ru": "Фруктовый сок",
+        "price": 3,
+        "image": "/images/menu/meyve-siresi.jpg"
+      }
+    ]
+  },
+  {
+    "id": "hotDrinks",
+    "category_az": "İsti içkilər",
+    "category_ru": "Горячие напитки",
+    "items": [
+      {
+        "id": "cay-sade",
+        "name_az": "Çay sadə",
+        "name_ru": "Чай обычный",
+        "price": 2,
+        "image": "/images/menu/cay-sade.jpg"
+      },
+      {
+        "id": "cay-murebbe-sokolad",
+        "name_az": "Çay (mürəbbə, şokolad)",
+        "name_ru": "Чай (варенье, шоколад)",
+        "price": 5,
+        "image": "/images/menu/cay-murebbe-sokolad.jpg"
+      },
+      {
+        "id": "americano",
+        "name_az": "Americano",
+        "name_ru": "Американо",
+        "price": 2,
+        "image": "/images/menu/americo.webp"
+      },
+      {
+        "id": "cappuccino",
+        "name_az": "Cappuccino",
+        "name_ru": "Капучино",
+        "price": 3,
+        "image": "/images/menu/cappucino.webp"
+      },
+      {
+        "id": "latte",
+        "name_az": "Latte",
+        "name_ru": "Латте",
+        "price": 3,
+        "image": "/images/menu/latte.jpg"
+      },
+      {
+        "id": "kakao-sudlu",
+        "name_az": "Kakao südlü",
+        "name_ru": "Какао с молоком",
+        "price": 2,
+        "image": "/images/menu/kakao-sudlu.jpg"
+      },
+      {
+        "id": "turk-qehvesi",
+        "name_az": "Türk qəhvəsi",
+        "name_ru": "Турецкий кофе",
+        "price": 3,
+        "image": "/images/menu/turk-qehvesi.jpg"
+      }
+    ]
+  }
+]
