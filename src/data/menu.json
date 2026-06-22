@@ -104,7 +104,7 @@
         "id": "baliq",
         "name_az": "Balıq",
         "name_ru": "Рыба",
-        "price": 25,
+        "price": 27,
         "image": "/images/menu/baliq.png",
         "variants": [
           {
@@ -191,7 +191,7 @@
         "name_az": "Sac toyuq",
         "name_ru": "Садж с курицей",
         "price": 20,
-        "image": "/images/menu/sactoyuq.avif"
+        "image": "/images/menu/toyuqsac.png"
       },
       {
         "id": "sac-quzu",
@@ -226,14 +226,14 @@
         "name_az": "Xamalı kətə",
         "name_ru": "Кята со сметаной",
         "price": 3,
-        "image": "/images/menu/kete.png"
+        "image": "/images/menu/keteyagli.webp"
       },
       {
         "id": "kere-yagli-kete",
         "name_az": "Kərə yağlı kətə",
         "name_ru": "Кята со сливочным маслом",
         "price": 2,
-        "image": "/images/menu/kere-yagli-kete.jpg"
+        "image": "/images/menu/kete.png"
       },
       {
         "id": "et-qutabi",
