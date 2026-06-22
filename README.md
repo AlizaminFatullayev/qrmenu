@@ -1,15 +1,56 @@
-# Aytala QR Menu
+Aytala QR Menu
 
-QR restaurant menu functionality built with React, Vite, Tailwind CSS, and i18next.
+A modern and mobile-friendly QR restaurant menu built with React, Vite, and Tailwind CSS. Customers can scan a QR code and instantly browse the restaurant menu from their smartphones without installing any application.
 
-The menu data was extracted from `/Users/alizamin/Desktop/aytala menu.pdf` and converted into `src/data/menu.json`. Every item has Azerbaijani/Russian names, pricing, category data, and an `image` URL. Real non-AI food photos were sourced from Wikimedia/Wikipedia media, downloaded into `public/images/menu/`, and copied into `dist/images/menu/` during build.
+Features
 
-## Folder Structure
+Multi-language Support
 
-```text
+* Azerbaijani (Default)
+* Russian
+* Instant language switching
+
+Smart Search
+
+* Real-time menu search
+* Search by food or drink name
+* Fast filtering across all categories
+
+Menu Categories
+
+* Cold Appetizers
+* Kebabs
+* Traditional Dishes
+* Main Courses
+* Pastries & Qutabs
+* Cold Drinks
+* Hot Drinks
+
+Food Images
+
+* High-quality food photography
+* Category-specific images
+* Optimized for fast loading
+
+Responsive Design
+
+* Mobile-first approach
+* Tablet support
+* Desktop support
+* Smooth user experience on all devices
+
+Tech Stack
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
+* i18next (Localization)
+
+Project Structure
+
 src/
 ├── assets/
-│   └── menu/
 ├── components/
 ├── data/
 ├── hooks/
@@ -17,39 +58,8 @@ src/
 ├── translations/
 ├── utils/
 ├── App.jsx
-├── index.css
 └── main.jsx
-```
 
-## Installation
 
-```bash
-npm install
-npm run dev
-```
 
-## Production Build
-
-```bash
-npm run build
-npm run preview
-```
-
-The build output is generated in `dist/`.
-
-## Netlify Deployment
-
-1. Push this project to a Git repository.
-2. Create a new Netlify site from the repository.
-3. Netlify will read `netlify.toml`.
-4. Build command: `npm run build`.
-5. Publish directory: `dist`.
-
-## Vercel Deployment
-
-1. Push this project to a Git repository.
-2. Import the repository in Vercel.
-3. Vercel will read `vercel.json`.
-4. Framework preset: Vite.
-5. Build command: `npm run build`.
-6. Output directory: `dist`.
+This project was created to provide a modern digital menu experience for restaurant customers, eliminating the need for printed menus while improving accessibility, convenience, and user experience.

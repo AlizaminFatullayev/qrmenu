@@ -37,7 +37,7 @@
         "name_az": "Tikə",
         "name_ru": "Тике",
         "price": 7,
-        "image": "/images/menu/tike.jpg",
+        "image": "/images/menu/tike.png",
         "variants": [
           {
             "key": "skewer",
@@ -54,7 +54,7 @@
         "name_az": "Lülə",
         "name_ru": "Люля-кебаб",
         "price": 7,
-        "image": "/images/menu/lule.jpg",
+        "image": "/images/menu/lule.png",
         "variants": [
           {
             "key": "skewer",
@@ -71,7 +71,7 @@
         "name_az": "Basdırma",
         "name_ru": "Бастурма",
         "price": 7,
-        "image": "/images/menu/basdirma.jpg",
+        "image": "/images/menu/basdirma.png",
         "variants": [
           {
             "key": "skewer",
@@ -79,7 +79,7 @@
           },
           {
             "key": "kilo",
-            "price": 25
+            "price": 27
           }
         ]
       },
@@ -105,11 +105,11 @@
         "name_az": "Balıq",
         "name_ru": "Рыба",
         "price": 25,
-        "image": "/images/menu/baliq.jpg",
+        "image": "/images/menu/baliq.png",
         "variants": [
           {
             "key": "kilo",
-            "price": 25
+            "price": 27
           }
         ]
       },
@@ -118,7 +118,7 @@
         "name_az": "Kartof",
         "name_ru": "Картофель",
         "price": 2,
-        "image": "/images/menu/kartof.jpg",
+        "image": "/images/menu/kartof.png",
         "variants": [
           {
             "key": "tailFat",
@@ -142,28 +142,28 @@
         "name_az": "Toyuq supu",
         "name_ru": "Куриный суп",
         "price": 3,
-        "image": "/images/menu/toyuq-supu.jpg"
+        "image": "/images/menu/toyuqsupu.png"
       },
       {
         "id": "gobelek-supu",
         "name_az": "Göbələk supu",
         "name_ru": "Грибной суп",
         "price": 3,
-        "image": "/images/menu/gobelek-supu.jpg"
+        "image": "/images/menu/gobelek.png"
       },
       {
         "id": "dusbere",
         "name_az": "Düşbərə",
         "name_ru": "Дюшбара",
         "price": 3,
-        "image": "/images/menu/dusbere.jpg"
+        "image": "/images/menu/dsubere.png"
       },
       {
         "id": "portleme",
         "name_az": "Pörtləmə",
         "name_ru": "Портлама",
         "price": 7,
-        "image": "/images/menu/portleme.jpg"
+        "image": "/images/menu/portleme.png"
       },
       {
         "id": "piti",
@@ -226,7 +226,7 @@
         "name_az": "Xamalı kətə",
         "name_ru": "Кята со сметаной",
         "price": 3,
-        "image": "/images/menu/xamali-kete.jpg"
+        "image": "/images/menu/kete.png"
       },
       {
         "id": "kere-yagli-kete",
@@ -240,14 +240,14 @@
         "name_az": "Ət qutabı",
         "name_ru": "Кутаб с мясом",
         "price": 3,
-        "image": "/images/menu/et-qutabi.jpg"
+        "image": "/images/menu/qutab.jpg"
       },
       {
         "id": "qarin-qutabi",
         "name_az": "Qarın qutabı",
         "name_ru": "Кутаб с рубцом",
         "price": 2,
-        "image": "/images/menu/qarin-qutabi.jpg"
+        "image": "/images/menu/qutabet.png"
       }
     ]
   },
@@ -317,14 +317,14 @@
         "name_az": "Kola, Fanta, Sprite",
         "name_ru": "Кола, Фанта, Спрайт",
         "price": 2,
-        "image": "/images/menu/coke.jpg"
+        "image": "/images/menu/kola.webp"
       },
       {
         "id": "meyve-siresi",
         "name_az": "Meyvə şirəsi",
         "name_ru": "Фруктовый сок",
         "price": 3,
-        "image": "/images/menu/meyve-siresi.jpg"
+        "image": "/images/menu/sire.jpg"
       }
     ]
   },
@@ -345,42 +345,42 @@
         "name_az": "Çay (mürəbbə, şokolad)",
         "name_ru": "Чай (варенье, шоколад)",
         "price": 5,
-        "image": "/images/menu/cay-murebbe-sokolad.jpg"
+        "image": "/images/menu/cay.png"
       },
       {
         "id": "americano",
         "name_az": "Americano",
         "name_ru": "Американо",
         "price": 2,
-        "image": "/images/menu/americo.webp"
+        "image": "/images/menu/americano.jpg"
       },
       {
         "id": "cappuccino",
         "name_az": "Cappuccino",
         "name_ru": "Капучино",
         "price": 3,
-        "image": "/images/menu/cappucino.webp"
+        "image": "/images/menu/cappucino.jpg"
       },
       {
         "id": "latte",
         "name_az": "Latte",
         "name_ru": "Латте",
         "price": 3,
-        "image": "/images/menu/latte.jpg"
+        "image": "/images/menu/latte.png"
       },
       {
         "id": "kakao-sudlu",
         "name_az": "Kakao südlü",
         "name_ru": "Какао с молоком",
         "price": 2,
-        "image": "/images/menu/kakao-sudlu.jpg"
+        "image": "/images/menu/kakao.jpg"
       },
       {
         "id": "turk-qehvesi",
         "name_az": "Türk qəhvəsi",
         "name_ru": "Турецкий кофе",
         "price": 3,
-        "image": "/images/menu/turk-qehvesi.jpg"
+        "image": "/images/menu/trkahve.jpg"
       }
     ]
   }
