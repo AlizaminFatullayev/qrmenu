@@ -104,12 +104,12 @@
         "id": "baliq",
         "name_az": "Balıq",
         "name_ru": "Рыба",
-        "price": 27,
+        "price": 25,
         "image": "/images/menu/baliq.png",
         "variants": [
           {
             "key": "kilo",
-            "price": 27
+            "price": 25
           }
         ]
       },
